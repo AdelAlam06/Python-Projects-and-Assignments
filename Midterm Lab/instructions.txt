@@ -1,0 +1,26 @@
+'''
+This test contains 6 programming questions. 
+Complete them the same way you've completed the labs.
+
+Programming questions are found in "midterm_funcs.py"
+- Complete these the same way you've been completing the labs.
+Unit tests are found in "midterm_tests.py"
+- Execute this file to run the unit tests, just like the labs.
+
+You do NOT have to submit anything, just save the files on your 
+computer. When you're done, simply close your editor. Do not
+attempt to reboot your computer.
+
+Some words of advice:
+- Save often. We can't recover unsaved work.
+- Be very careful to AVOID infinite loops and infinite sequence 
+  creation! Your computer can freeze for upwards of 10 minutes. 
+  You will lose this time.
+- Don't forget, you have access to the Python documentation.
+  This is very helpful if you're looking for a method, or trying
+  to remember how a particular method works.
+
+Good luck!
+
+'''
+
