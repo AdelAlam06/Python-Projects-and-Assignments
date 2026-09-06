@@ -1,1 +1,1 @@
-# Python-Projects-and-Assignmets
+# Python-Projects-and-Assignments
