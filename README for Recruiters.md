@@ -1,6 +1,6 @@
 # Python-Projects-and-Assignments
 
-In this folder I have listed all the various skills I have learned of. I have labelled them in respect to what they represent most in the said file. 
+In this folder I have listed all the various skills I have learned of regarding python. I have labelled them in respect to what they represent most in the said file. 
 
 If you want to execute the files you'll need to execute the test files in the folders, because it has all the testcases. If a folder doesn't have a test file, then you can just execute the file itself, after commenting out the rest of the code from other functions. The questions are separated by comments so you'll know how to separate them. All of these questions will require a console to display all the answers.
 
